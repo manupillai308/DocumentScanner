@@ -9,7 +9,6 @@ A python opencv implementation of the CamScanner application.
 ### Requirements
 ```
 python 3.6
-dlib
 opencv
 ```
 
